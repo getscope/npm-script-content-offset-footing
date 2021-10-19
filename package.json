@@ -1,0 +1,28 @@
+{
+    "name": "@getscope/npm-script-content-offset-footing",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [
+        "npm",
+        "script",
+        "content",
+        "offset",
+        "footing"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/getscope/npm-script-content-offset-footing",
+    "licenses": "MIT",
+    "author": {
+        "name": "bu0nq",
+        "email": "hello@bu0nq.ru",
+        "homepage": "https://bu0nq.ru",
+        "role": "Developer"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/getscope/npm-script-content-offset-footing.git"
+    }
+}
